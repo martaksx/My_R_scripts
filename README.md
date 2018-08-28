@@ -1,4 +1,4 @@
-# My R scripts :sunglasses:
+# My R scripts
 
 Currently I'm mostly focused on visualtisation of data in R or peforming basic data analyses - so here some scrpits which I use in work and want to share - hope they can be useful for somebody :wink:
 
